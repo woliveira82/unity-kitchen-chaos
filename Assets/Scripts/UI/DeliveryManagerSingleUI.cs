@@ -27,5 +27,4 @@ public class DeliveryManagerSingleUI : MonoBehaviour {
         }
     }
 
-
 }
